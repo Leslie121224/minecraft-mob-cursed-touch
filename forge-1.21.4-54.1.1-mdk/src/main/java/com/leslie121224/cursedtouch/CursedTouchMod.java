@@ -1,4 +1,4 @@
-package com.leslie1212.cursedtouch;
+package com.leslie121224.cursedtouch;
 
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.eventbus.api.SubscribeEvent;

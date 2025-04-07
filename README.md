@@ -25,7 +25,7 @@ A simple Forge mod for Minecraft 1.21.4 where touching any mob (passive or hosti
 ## 🛠 Development
 
 Mod ID: `cursedtouch`  
-Main Class: `com.leslie1212.cursedtouch.CursedTouchMod`
+Main Class: `com.leslie121224.cursedtouch.CursedTouchMod`
 
 Event handler:
 - `PlayerTouchEntityHandler.java` (checks bounding box overlap and applies effect)
@@ -34,4 +34,4 @@ Event handler:
 
 ## 📜 License
 
-MIT License © 2025 [leslie1212](https://github.com/leslie1212)
+MIT License © 2025 [leslie121224](https://github.com/leslie121224)
