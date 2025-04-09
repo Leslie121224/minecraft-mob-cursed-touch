@@ -35,7 +35,7 @@ More effects will be added in future updates.
 ## 📦 Installation
 
 1. Install [Minecraft Forge 1.21.4](https://files.minecraftforge.net/)
-2. Download the latest `.jar` from the [Releases Page](https://github.com/你的帳號/你的專案/releases)
+2. Download the latest `.jar` from the [Releases Page](https://github.com/leslie121224/minecraft-mob-cursed-touch/releases)
 3. Place the `.jar` in your `mods/` folder
 4. Launch the game and enjoy the cursed chaos!
 
