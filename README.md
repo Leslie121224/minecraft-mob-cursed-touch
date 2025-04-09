@@ -9,7 +9,7 @@ A simple Forge mod for Minecraft 1.21.4 that gives players a **random potion eff
 - 👣 Touch **any mob** (cow, zombie, villager, etc.)
 - 🎲 Receive a **random potion effect** for 15 seconds
 - 🍀 Includes both **positive** and **negative** effects
-- 🔁 2-second cooldown between each trigger
+- 🔁 1-second cooldown between each trigger
 
 ---
 
